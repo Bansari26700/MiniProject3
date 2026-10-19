@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,100.0,100.0,NA,NA,0,0,0 of 0 disagreements resolved; kappa undefined due to a single category
+WhyRecovered,70.0,100.0,NA,NA,3,3,3 of 3 disagreements resolved
+ActivityPattern,60.0,100.0,0.429,1.0,4,4,4 of 4 disagreements resolved
+Currentstatus,100.0,100.0,1.0,1.0,0,0,0 of 0 disagreements resolved
+RecentThemes,40.0,80.0,NA,NA,6,4,4 of 6 disagreements resolved
